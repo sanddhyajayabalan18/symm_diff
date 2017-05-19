@@ -15,3 +15,4 @@ for i in [0,1,2]:
 		list1[i] = t
 	else:
 		print("Swap not needed")
+print(list1)
